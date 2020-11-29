@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Scary Wild Animals</string>
+    <string name="animal">Animal</string>
+    <string-array name="wild_animals">
+        <item>Elephant</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Bear</item>
+        <item>Rhinoceros</item>
+        <item>Gorilla</item>
+        <item>Crocodile</item>
+        <item>Hyena</item>
+        <item>Snake</item>
+        <item>Tarantula</item>
+        <item>Bunny</item>
+        <item>Mouse</item>
+        <item>Ant</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>The REAL king of the jungle. The Lion keeps out of his way</item>
+        <item>We let him think he is king of the jungle. His favourite film is The Lion King</item>
+        <item>Contrary to popular belief this lady is not from Africa. </item>
+        <item>Do not try to hug this beast. Likes: Raw salmon. Dislikes: Interfering humans</item>
+        <item>This is a  very grumpy customer. Do not upset him or enter his territory</item>
+        <item>Tolerant of humans but do not break any social conventions or you could be in trouble</item>
+        <item>Do not try to wrestle a crocodile and never ever swim with them</item>
+        <item>Not a very pleasant customer. Tends to scavenge the left overs of other carnivores. Acts on others vulnerabilities. Best avoided</item>
+        <item>Do not look into its eyes because he will hypnotize you. Not very cute and does not like to cuddle</item>
+        <item>This lady will crawl over you. May not bite unless provoked. I Do not know what provokes her</item>
+        <item>Likes: lettuce Dislikes: All other animals on this list. They will have her for lunch.</item>
+        <item>Likes to keep a low profile. The mouse scares the King of the Jungle</item>
+        <item>Works in a colony. Hardest worker on the list. In fact never stops working.</item>
+    </string-array>
+</resources>
